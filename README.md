@@ -17,5 +17,7 @@ This jar file for dowloading Json Tweets based on their ID.
 - Step2: Configuration as Requirement
 
 - Step3: Run JAR file with following command
-  `java -classpath TweetsRetrieval-1.2-jar-with-dependencies.jar qa.qcri.tweetsretrieval.TweetsRetrievalTool sample_tweet_ids.txt output.txt`
+`java -classpath TweetsRetrieval-1.2-jar-with-dependencies.jar qa.qcri.tweetsretrieval.TweetsRetrievalTool sample_tweet_ids_Nepal.txt out.txt`
+
+Note: To run again delete previous out.txt or rename output file.
   
